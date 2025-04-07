@@ -40,22 +40,3 @@ calculator = HammingTripletCalculator()
 
 ## GAGCCTACTAACGGGAT
 ## CATCGTAATGACGGCCT
-
-
-
-
-# class + 2 methods
-
-
-# Variant 4
-
-# from itertools import permutations
-#
-# n = int(input())
-#
-# perm_list = list(permutations(range(1, n+1)))
-#
-# print(len(perm_list))
-#
-# for perm in perm_list:
-#     print(*perm)
