@@ -40,3 +40,4 @@ calculator = HammingTripletCalculator()
 
 ## GAGCCTACTAACGGGAT
 ## CATCGTAATGACGGCCT
+аааааааваа
